@@ -1,7 +1,7 @@
 # A. YouTube IQ - Explore Insights on Your Favorite Creator!
 
 ## Link to App
-https://app.hex.tech/ecdfec11-8996-4466-8dae-3c22c81b6a5b/app/350dfc28-343f-462d-bf53-b044e712fcb7/latest
+- https://app.hex.tech/ecdfec11-8996-4466-8dae-3c22c81b6a5b/app/350dfc28-343f-462d-bf53-b044e712fcb7/latest
 
 ## Overview
 - Goal: Develop a dashboard to help content creators uncover insights in their specific Youtube genre / content space
@@ -16,7 +16,7 @@ https://app.hex.tech/ecdfec11-8996-4466-8dae-3c22c81b6a5b/app/350dfc28-343f-462d
 # B. YouTube IQ - A Creator Analytics Dashboard
 
 ## Link to App
-https://app.hex.tech/ecdfec11-8996-4466-8dae-3c22c81b6a5b/app/305ef1a4-672b-4480-ae5e-23fbb425141f/latest
+- https://app.hex.tech/ecdfec11-8996-4466-8dae-3c22c81b6a5b/app/305ef1a4-672b-4480-ae5e-23fbb425141f/latest
 
 ## Overview
 - Goal: Develop a dashboard to help content creators uncover insights in their specific Youtube genre / content space
